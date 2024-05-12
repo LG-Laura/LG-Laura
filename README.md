@@ -1,4 +1,4 @@
-<h1 aling center ; color="purple">Hola! me llamo Laura 👋</h1>
+<h1 aling= "center">Hola! me llamo Laura 👋</h1>
 <h1></h1>
 
 <!--
