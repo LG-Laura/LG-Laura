@@ -1,4 +1,4 @@
-### 🌟 ¿Quién Soy?
+
 
 <h1 align="center">¡Hola! Me llamo Laura 👋</h>
 
