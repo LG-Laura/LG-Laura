@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Bienvenidos+a+mi+perfil+de+GitHub...!)
 
-Soy **Laura**, estudiante de último año de **Análisis de Sistemas** 🎓 y una apasionada por el aprendizaje continuo y la tecnología. Me encanta sumergirme en nuevas herramientas, explorar soluciones innovadoras y enfrentar desafíos del mundo real 🚀. 
+Estudiante de último año de **Análisis de Sistemas** 🎓 y una apasionada por el aprendizaje continuo y la tecnología. Me encanta sumergirme en nuevas herramientas, explorar soluciones innovadoras y enfrentar desafíos del mundo real 🚀. 
 
 Mi enfoque actual es el **desarrollo web full stack**, donde disfruto creando proyectos de principio a fin. Fuera de la pantalla, soy fan de la música 🎵, el buen café ☕, y siempre estoy en busca de inspiración creativa para nuevos proyectos. 
 
@@ -14,7 +14,7 @@ Mi enfoque actual es el **desarrollo web full stack**, donde disfruto creando pr
 
 </div>
 
-### Tecnologías y herramientas que uso
+###<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> Tecnologías y herramientas que uso
 
 <div align="center">
 
