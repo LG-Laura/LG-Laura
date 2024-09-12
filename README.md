@@ -14,7 +14,7 @@ Mi enfoque actual es el **desarrollo web full stack**, donde disfruto creando pr
 
 </div>
 
-###<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> Tecnologías y herramientas que uso
+<img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>### Tecnologías y herramientas que uso
 
 <div align="center">
 
