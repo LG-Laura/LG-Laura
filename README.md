@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Bienvenidos+a+mi+perfil+de+GitHub...!)
 
- **Análisis de Sistemas** 🎓 y una apasionada por el aprendizaje continuo y la tecnología. Me encanta sumergirme en nuevas herramientas, explorar soluciones innovadoras y enfrentar desafíos del mundo real 🚀. 
+ **Técnica en Análisis de Sistemas** 🎓 y una apasionada por el aprendizaje continuo y la tecnología. Me encanta sumergirme en nuevas herramientas, explorar soluciones innovadoras y enfrentar desafíos del mundo real 🚀. 
 
 Mi enfoque actual es el **desarrollo web full stack**, donde disfruto creando proyectos de principio a fin. Fuera de la pantalla, soy fan de la música 🎵, el buen café ☕, y siempre estoy en busca de inspiración creativa para nuevos proyectos. 
 
@@ -25,7 +25,12 @@ Mi enfoque actual es el **desarrollo web full stack**, donde disfruto creando pr
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
